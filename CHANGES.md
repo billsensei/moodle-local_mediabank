@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.4 (2026-11-21)
+Version 2026112101. Packaging and links only: the plugin moved to its own repository, `moodle-local_mediabank`, with the plugin files at the repository root. Its history came with it. No change in behaviour, no setting, no table. Moodle offers the upgrade. Needs contenttype_mediabank 0.12.0, as before.
+
 ## 0.4.3 (2026-11-20)
 Version 2026112001. Packaging only: each plugin zip now has a copy of the GPL v3 `LICENSE` in its root, as the Moodle Marketplace review requires. No change to how it behaves. No setting, no table. Moodle offers the upgrade.
 

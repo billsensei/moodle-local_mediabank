@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability (private)
+    url: https://github.com/billsensei/moodle-local_mediabank/security/advisories/new
+    about: Do not open a public issue for a security problem. Use GitHub's private report.
+  - name: Problem with the media bank content type itself
+    url: https://github.com/billsensei/moodle-contenttype_mediabank/issues
+    about: Uploading, the item page, replacing items and the web services belong to contenttype_mediabank.
+  - name: Problem in Moodle itself
+    url: https://moodle.org/security/
+    about: Security problems in Moodle core go to Moodle, not to this project.

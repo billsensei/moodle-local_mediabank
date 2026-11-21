@@ -23,7 +23,7 @@
  * with the plugin type and the site's Moodle version. Run it against a site where the plugin is not installed,
  * or the validator also reports that the target folder already exists.
  *
- * @package    contenttype_mediabank
+ * @package    local_mediabank
  * @copyright  2026 SenseiMoodle
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
